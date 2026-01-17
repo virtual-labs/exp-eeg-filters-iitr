@@ -1,6 +1,6 @@
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px; text-align: justify;">
 
-## EEG Signal Generation and Filtering Procedure:
+### EEG Signal Generation and Filtering Procedure:
 
 <b>STEP 1</b>: Select an EEG Dataset from the dropdown menu. Choose the desired <b>Brain Lobe</b> for EEG recording and adjust the <b>Duration</b> and <b>Sampling Rate</b> sliders as required.
 <br>
