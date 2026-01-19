@@ -1,1 +1,1 @@
-### To study and analyze the effectiveness of various digital filters in removing noise and artifacts from EEG signals without distorting essential brain rhythms.
+#### To study and analyze the effectiveness of various digital filters in removing noise and artifacts from EEG signals without distorting essential brain rhythms.

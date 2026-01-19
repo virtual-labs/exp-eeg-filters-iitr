@@ -1,6 +1,5 @@
 
- 
-References
+
 
 1) Leslie Cromwell, Fred J. Weibell, Erich A. Pfeiffer, Biomedical Instrumentation and Measurements, 2nd ed., Prentice Hall, 1996.<br>
 
