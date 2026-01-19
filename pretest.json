@@ -1,0 +1,52 @@
+[
+  {
+    "question": "EEG signals typically have amplitudes in the range of:",
+    "answers": {
+      "a": "1–5 V",
+      "b": "1–10 mV",
+      "c": "10–100 μV",
+      "d": "1–10 μV"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "EEG spectral analysis is commonly performed using:",
+    "answers": {
+      "a": "Time-domain averaging",
+      "b": "Correlation analysis",
+      "c": "Power spectral density (PSD)",
+      "d": "Histogram analysis"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "During EEG recording, if high-frequency noise is observed at 50 Hz, what is the most likely source?",
+    "answers": {
+      "a": "Brain stem activity",
+      "b": "Cardiac rhythm",
+      "c": "Eye movements",
+      "d": "Powerline interference"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "Ocular artifacts are most prominent in EEG channels located over the:",
+    "answers": {
+      "a": "Occipital lobe",
+      "b": "Parietal lobe",
+      "c": "Temporal lobe",
+      "d": "Frontal lobe"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "If noise from nearby electrical equipment is affecting the EEG, which type of filter is typically applied to clean the signal?",
+    "answers": {
+      "a": "Bandpass filter",
+      "b": "High-pass filter",
+      "c": "Notch filter",
+      "d": "Low-pass filter"
+    },
+    "correctAnswer": "c"
+  }
+]

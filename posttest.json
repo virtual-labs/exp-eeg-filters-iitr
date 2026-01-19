@@ -1,0 +1,52 @@
+[
+  {
+    "question": "After applying a high-pass filter at 0.5 Hz, which artifact is most effectively reduced?",
+    "answers": {
+      "a": "EMG noise",
+      "b": "Power-line interference",
+      "c": "Baseline drift",
+      "d": "Gamma activity"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Which filtering technique is commonly applied during EEG signal processing to remove low-frequency drift?",
+    "answers": {
+      "a": "Bandpass filter",
+      "b": "High-pass filter",
+      "c": "Low-pass filter",
+      "d": "Notch filter"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Applying a low-pass filter at 40 Hz primarily helps in:",
+    "answers": {
+      "a": "Enhancing delta waves",
+      "b": "Removing baseline drift",
+      "c": "Suppressing muscle and high-frequency noise",
+      "d": "Isolating alpha rhythms"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Why is a band-pass filter (0.5–30 Hz) commonly used in EEG preprocessing?",
+    "answers": {
+      "a": "It removes only DC offset",
+      "b": "It isolates only gamma waves",
+      "c": "It suppresses both low-frequency drift and high-frequency noise",
+      "d": "It amplifies EEG amplitude"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "Increasing the order of a Butterworth filter mainly results in:",
+    "answers": {
+      "a": "Reduced computational cost",
+      "b": "Wider transition band",
+      "c": "Steeper roll-off and better noise attenuation",
+      "d": "Increased passband ripple"
+    },
+    "correctAnswer": "c"
+  }
+]
